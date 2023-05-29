@@ -1,6 +1,5 @@
 # DuckEscape
 - 사용 언어: Processing 4 (Java)
-- Github link: 
 - Processing을 이용해 만든 간단한 미니 게임 모음집입니다.
 	- 플레이 가능한 게임은 총 5개입니다.
 		- Wordle
